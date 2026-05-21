@@ -24,6 +24,10 @@
   <img src="https://img.shields.io/badge/TypeScript-5.x-3178C6.svg" alt="TypeScript"/>
 </p>
 
+<p align="center">
+  [Leer en Español](README.es.md)
+</p>
+
 ---
 
 ## ✨ Why OpenWA?
